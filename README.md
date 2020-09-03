@@ -1,5 +1,7 @@
 # learning-the-shell
 
+https://www.youtube.com/watch?v=e7BufAVwDiM
+
 ## List out all the shells
 
 ```shell
@@ -36,3 +38,9 @@ chmod +x helloScript.sh
 ```shell
 ./helloScript.sh
 ```
+
+- Update `helloScript.sh` and re-run to see that it has changed
+- Create file `simple-redirect.sh` to have the `echo` redirect to `file.txt`
+  - Google Search: `bash redirect to file`
+- Create file `redirect-using-standard-input.sh` with `cat > file.txt` and try running it.  Type in stuff. `Control+D`
+- Create file `append-using-standard-input.sh` with `cat >> file.txt` and try running it.  Type in stuff. `Control+D`

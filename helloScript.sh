@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello world"
+echo "good morning! Our sky is orange yesterday"
