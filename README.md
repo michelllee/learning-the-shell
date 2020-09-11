@@ -44,3 +44,8 @@ chmod +x helloScript.sh
   - Google Search: `bash redirect to file`
 - Create file `redirect-using-standard-input.sh` with `cat > file.txt` and try running it.  Type in stuff. `Control+D`
 - Create file `append-using-standard-input.sh` with `cat >> file.txt` and try running it.  Type in stuff. `Control+D`
+
+## Comments
+
+- Single-line comments - hash
+- Multi-line comments - colon, space, quote,  then end-quote
