@@ -18,3 +18,4 @@ echo "A multi line comment"
 Today is Friday, and the sky is more clear
 There is sunshine unlike yesterday '
 
+ip
