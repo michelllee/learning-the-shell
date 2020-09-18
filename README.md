@@ -56,3 +56,7 @@ chmod +x helloScript.sh
 - Create variable `count` and assign to `10`
 - Create an if statement to check whether `count` is equal to 10
 - In the `then`, `echo` out `the condition is true`
+
+## AND operator
+
+- `&&` using single `[`
