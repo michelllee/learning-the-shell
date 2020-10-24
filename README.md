@@ -60,3 +60,22 @@ chmod +x helloScript.sh
 ## AND operator
 
 - `&&` using single `[`
+
+# Number Systems
+
+```
+# decimal [0 1 2 3 4 5 6 7 8 9] base 10
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+# hexadecimal [0 1 2 3 4 5 6 7 8 9 a b c d e f] base 16
+0 1 2 3 4 5 6 7 8 9 a  b  c  d  e  f  10 11 12 13 14
+
+# binary [0 1] base 2
+0 1 10 11 100 101 110 111 1000 1001 1010 1011 1100 1101 1111 10000
+
+# octal [0 1 2 3 4 5 6 7] base 8
+0 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 20 21 22 23 24 25 26 27 30 31
+
+(hex 10) = (decimal 16)
+(decimal 10)
+```
