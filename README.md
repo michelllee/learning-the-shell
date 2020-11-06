@@ -79,3 +79,8 @@ chmod +x helloScript.sh
 (hex 10) = (decimal 16)
 (decimal 10)
 ```
+
+# Sending mail
+
+https://tecadmin.net/ways-to-send-email-from-linux-command-line/
+https://blog.travismclarke.com/post/send-email-from-terminal/
