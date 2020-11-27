@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 # 1. Print out the README.md file. Test this out.
 # 2. Use sed to change all 'the' to 'THE' and output result to the screen

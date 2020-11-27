@@ -6,9 +6,10 @@
 # 4. For the second case, check it if is equal to `AAPL` and it so echo out 'You have Apple stock'
 # 5. For the catch-all, simply echo out `You have an unrecognized stock: $symbol`
 
-echo -n "which symbol? "
+set -x
+echo -n "which symbol? " 
 read symbol 
-
+set +x
 
 case $symbol in
       googl)
